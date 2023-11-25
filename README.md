@@ -1,16 +1,28 @@
 # nlib_library_assistant
 
-A new Flutter project.
+This is a flutter project with firebase backend. Uses realtime database Firebase Firestore to retrive data. Uses Firebase authentication as well.
 
-## Getting Started
+## Screenshots
+<!-- Row 1 -->
+<p align="center">
+  <img src="/asset/screenshots/img1.png" width="300" alt="Admin Login">
+  <img src="/asset/screenshots/img2.png" width="300" alt="Lecturer Login">
+  <img src="/asset/screenshots/img2.png" width="300" alt="Student Login">
+</p>
 
-This project is a starting point for a Flutter application.
+<!-- Row 2 -->
+<p align="center">
+  <img src="/asset/screenshots/img4.png" width="300" alt="Admin Home">
+  <img src="/asset/screenshots/img5.png" width="300" alt="Student List">
+  <img src="/asset/screenshots/img6.png" width="300" alt="Student Update">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<!-- Row 3 -->
+<p align="center">
+  <img src="/asset/screenshots/img7.png" width="300" alt="Student Details">
+  <img src="/asset/screenshots/img8.png" width="300" alt="Student Details">
+  <!-- Add more images if needed -->
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
